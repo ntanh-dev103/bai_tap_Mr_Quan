@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "dart_bai_thuc_hanh_1"
+  ],
+  "packages": [
+    {
+      "name": "dart_bai_thuc_hanh_1",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}

@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\ce041fdf94fe29a0ff0a110777fe927e\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\a50c3e4199d0edce57fbcdd0f587f0d8\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\9fb7684c68444998617676a93ca700c0\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\e48618d4ed00c9b503d8509c693ce5ce\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\f4acb7ecffcce656b0e9d28e346e2a79\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\8418fa58f4c97bcc767f4b66332893c6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\25e8a9a1b90fa5652568e21f6a00aac0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\0b6cabde4830b85bf70de56c3186d872\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\df0d8ad7248b3173997b127da3ecfafd\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:4:5-24:19
+INJECTED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:4:5-24:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\f4acb7ecffcce656b0e9d28e346e2a79\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\f4acb7ecffcce656b0e9d28e346e2a79\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\8418fa58f4c97bcc767f4b66332893c6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\8418fa58f4c97bcc767f4b66332893c6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\f4acb7ecffcce656b0e9d28e346e2a79\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:7:9-39
+	android:roundIcon
+		ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:8:9-50
+	android:icon
+		ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:6:9-45
+	android:allowBackup
+		ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.danhsachjava.SubjectListViewActivity
+ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:12:9-61
+	android:name
+		ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:12:19-58
+activity#com.example.danhsachjava.ProductRecyclerActivity
+ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:13:9-61
+	android:name
+		ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:13:19-58
+activity#com.example.danhsachjava.MainActivity
+ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:exported
+		ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml
+INJECTED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\ce041fdf94fe29a0ff0a110777fe927e\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\ce041fdf94fe29a0ff0a110777fe927e\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\a50c3e4199d0edce57fbcdd0f587f0d8\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\a50c3e4199d0edce57fbcdd0f587f0d8\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\9fb7684c68444998617676a93ca700c0\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\9fb7684c68444998617676a93ca700c0\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\e48618d4ed00c9b503d8509c693ce5ce\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\e48618d4ed00c9b503d8509c693ce5ce\transformed\jetified-core-ktx-1.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\f4acb7ecffcce656b0e9d28e346e2a79\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\f4acb7ecffcce656b0e9d28e346e2a79\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\8418fa58f4c97bcc767f4b66332893c6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\8418fa58f4c97bcc767f4b66332893c6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\25e8a9a1b90fa5652568e21f6a00aac0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\25e8a9a1b90fa5652568e21f6a00aac0\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\0b6cabde4830b85bf70de56c3186d872\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\0b6cabde4830b85bf70de56c3186d872\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\df0d8ad7248b3173997b127da3ecfafd\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\ntaan\.gradle\caches\9.0.0\transforms\df0d8ad7248b3173997b127da3ecfafd\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\LT601-K15\lap_trinh_mobile\DanhSach_ListView_RecyclerView_Java\app\src\main\AndroidManifest.xml

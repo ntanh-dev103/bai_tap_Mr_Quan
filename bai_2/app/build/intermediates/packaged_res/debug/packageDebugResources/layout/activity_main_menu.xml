@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:background="#F5F7FA">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BÀI TẬP THIẾT KẾ GIAO DIỆN"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#1A237E"
+        android:layout_marginBottom="28dp" />
+
+    <Button android:id="@+id/btnBai1" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Bài 1 - Thông tin cá nhân" android:layout_marginBottom="12dp" />
+    <Button android:id="@+id/btnBai2" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Bài 2 - Form đăng nhập" android:layout_marginBottom="12dp" />
+    <Button android:id="@+id/btnBai3" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Bài 3 - Danh sách môn học" android:layout_marginBottom="12dp" />
+    <Button android:id="@+id/btnBai4" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Bài 4 - Profile có Fragment" android:layout_marginBottom="12dp" />
+    <Button android:id="@+id/btnBai5" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Bài 5 - Quản lý lớp học" />
+</LinearLayout>

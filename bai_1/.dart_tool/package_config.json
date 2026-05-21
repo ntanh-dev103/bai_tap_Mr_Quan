@@ -1,0 +1,16 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "dart_bai_thuc_hanh_1",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.11.5",
+  "flutterRoot": "file:///D:/flutter/flutter",
+  "flutterVersion": "3.41.7",
+  "pubCache": "file:///C:/Users/ntaan/AppData/Local/Pub/Cache"
+}

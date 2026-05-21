@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.danhsachjava.app-debug-10:/layout_activity_main.xml.flat",
+        "source": "com.example.danhsachjava.app-main-12:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.danhsachjava.app-debug-10:/layout_activity_subject_listview.xml.flat",
+        "source": "com.example.danhsachjava.app-main-12:/layout/activity_subject_listview.xml"
+    },
+    {
+        "merged": "com.example.danhsachjava.app-debug-10:/drawable_bg_button_danger.xml.flat",
+        "source": "com.example.danhsachjava.app-main-12:/drawable/bg_button_danger.xml"
+    },
+    {
+        "merged": "com.example.danhsachjava.app-debug-10:/drawable_bg_screen.xml.flat",
+        "source": "com.example.danhsachjava.app-main-12:/drawable/bg_screen.xml"
+    },
+    {
+        "merged": "com.example.danhsachjava.app-debug-10:/drawable_bg_edittext.xml.flat",
+        "source": "com.example.danhsachjava.app-main-12:/drawable/bg_edittext.xml"
+    },
+    {
+        "merged": "com.example.danhsachjava.app-debug-10:/layout_item_product.xml.flat",
+        "source": "com.example.danhsachjava.app-main-12:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.example.danhsachjava.app-debug-10:/layout_activity_product_recycler.xml.flat",
+        "source": "com.example.danhsachjava.app-main-12:/layout/activity_product_recycler.xml"
+    },
+    {
+        "merged": "com.example.danhsachjava.app-debug-10:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.danhsachjava.app-main-12:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.danhsachjava.app-debug-10:/drawable_bg_button.xml.flat",
+        "source": "com.example.danhsachjava.app-main-12:/drawable/bg_button.xml"
+    },
+    {
+        "merged": "com.example.danhsachjava.app-debug-10:/drawable_bg_card.xml.flat",
+        "source": "com.example.danhsachjava.app-main-12:/drawable/bg_card.xml"
+    }
+]

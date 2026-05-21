@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.androiduibaitap.app-debug-25:/layout_activity_personal_info.xml.flat",
+        "source": "com.example.androiduibaitap.app-main-27:/layout/activity_personal_info.xml"
+    },
+    {
+        "merged": "com.example.androiduibaitap.app-debug-25:/layout_activity_class_home.xml.flat",
+        "source": "com.example.androiduibaitap.app-main-27:/layout/activity_class_home.xml"
+    },
+    {
+        "merged": "com.example.androiduibaitap.app-debug-25:/layout_fragment_setting.xml.flat",
+        "source": "com.example.androiduibaitap.app-main-27:/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "com.example.androiduibaitap.app-debug-25:/layout_activity_student_list.xml.flat",
+        "source": "com.example.androiduibaitap.app-main-27:/layout/activity_student_list.xml"
+    },
+    {
+        "merged": "com.example.androiduibaitap.app-debug-25:/layout_fragment_history.xml.flat",
+        "source": "com.example.androiduibaitap.app-main-27:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.example.androiduibaitap.app-debug-25:/layout_activity_login.xml.flat",
+        "source": "com.example.androiduibaitap.app-main-27:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.androiduibaitap.app-debug-25:/layout_activity_profile_tab.xml.flat",
+        "source": "com.example.androiduibaitap.app-main-27:/layout/activity_profile_tab.xml"
+    },
+    {
+        "merged": "com.example.androiduibaitap.app-debug-25:/layout_fragment_info.xml.flat",
+        "source": "com.example.androiduibaitap.app-main-27:/layout/fragment_info.xml"
+    },
+    {
+        "merged": "com.example.androiduibaitap.app-debug-25:/layout_activity_add_student.xml.flat",
+        "source": "com.example.androiduibaitap.app-main-27:/layout/activity_add_student.xml"
+    },
+    {
+        "merged": "com.example.androiduibaitap.app-debug-25:/layout_activity_subject_list.xml.flat",
+        "source": "com.example.androiduibaitap.app-main-27:/layout/activity_subject_list.xml"
+    },
+    {
+        "merged": "com.example.androiduibaitap.app-debug-25:/layout_activity_main_menu.xml.flat",
+        "source": "com.example.androiduibaitap.app-main-27:/layout/activity_main_menu.xml"
+    }
+]

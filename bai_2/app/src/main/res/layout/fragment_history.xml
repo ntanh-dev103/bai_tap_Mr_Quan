@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="20dp">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="LỊCH SỬ HOẠT ĐỘNG" android:textSize="20sp" android:textStyle="bold" android:textColor="#0D47A1" android:layout_marginBottom="12dp" />
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="- Đăng nhập hệ thống&#10;- Xem danh sách môn học&#10;- Cập nhật hồ sơ cá nhân" android:textSize="17sp" android:lineSpacingExtra="6dp" />
+</LinearLayout>

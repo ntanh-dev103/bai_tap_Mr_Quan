@@ -1,0 +1,5 @@
+name: dart_bai_thuc_hanh_1
+description: Bai thuc hanh 1 Dart co ban - 10 bai tap.
+version: 1.0.0
+environment:
+  sdk: '>=2.17.0 <4.0.0'

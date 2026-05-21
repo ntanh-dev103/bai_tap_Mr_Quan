@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable bg_button
+drawable bg_button_danger
+drawable bg_card
+drawable bg_edittext
+drawable bg_screen
+drawable ic_launcher
+id btnAddSubject
+id btnClearAll
+id btnListView
+id btnRecyclerView
+id edtSubjectName
+id listViewSubjects
+id recyclerProduct
+id txtProductDescription
+id txtProductName
+id txtProductPrice
+layout activity_main
+layout activity_product_recycler
+layout activity_subject_listview
+layout item_product
+style AppTheme
